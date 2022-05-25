@@ -15,6 +15,7 @@
 		BBCBE4DF283DC329009CA8A6 /* DailyScrum.swift in Sources */ = {isa = PBXBuildFile; fileRef = BBCBE4DE283DC329009CA8A6 /* DailyScrum.swift */; };
 		BBCBE4E1283DC35C009CA8A6 /* CardView.swift in Sources */ = {isa = PBXBuildFile; fileRef = BBCBE4E0283DC35C009CA8A6 /* CardView.swift */; };
 		BBCBE4E3283DC4F9009CA8A6 /* TrailingIconLabelStyle.swift in Sources */ = {isa = PBXBuildFile; fileRef = BBCBE4E2283DC4F9009CA8A6 /* TrailingIconLabelStyle.swift */; };
+		BBCBE4E5283DC76B009CA8A6 /* ScrumsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = BBCBE4E4283DC76B009CA8A6 /* ScrumsView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -27,6 +28,7 @@
 		BBCBE4DE283DC329009CA8A6 /* DailyScrum.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DailyScrum.swift; sourceTree = "<group>"; };
 		BBCBE4E0283DC35C009CA8A6 /* CardView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CardView.swift; sourceTree = "<group>"; };
 		BBCBE4E2283DC4F9009CA8A6 /* TrailingIconLabelStyle.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TrailingIconLabelStyle.swift; sourceTree = "<group>"; };
+		BBCBE4E4283DC76B009CA8A6 /* ScrumsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScrumsView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -66,6 +68,7 @@
 				BB7FB9E4283C6EB400E67D21 /* Preview Content */,
 				BBCBE4E0283DC35C009CA8A6 /* CardView.swift */,
 				BBCBE4E2283DC4F9009CA8A6 /* TrailingIconLabelStyle.swift */,
+				BBCBE4E4283DC76B009CA8A6 /* ScrumsView.swift */,
 			);
 			path = Scrumdinger;
 			sourceTree = "<group>";
@@ -160,6 +163,7 @@
 				BBCBE4DF283DC329009CA8A6 /* DailyScrum.swift in Sources */,
 				BBCBE4E3283DC4F9009CA8A6 /* TrailingIconLabelStyle.swift in Sources */,
 				BBCBE4DD283DC149009CA8A6 /* Theme.swift in Sources */,
+				BBCBE4E5283DC76B009CA8A6 /* ScrumsView.swift in Sources */,
 				BB7FB9E1283C6EB300E67D21 /* MeetingView.swift in Sources */,
 				BB7FB9DF283C6EB300E67D21 /* ScrumdingerApp.swift in Sources */,
 				BBCBE4E1283DC35C009CA8A6 /* CardView.swift in Sources */,
